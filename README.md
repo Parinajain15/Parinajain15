@@ -1,29 +1,128 @@
-# 💫 Hi 👋, I'm Parina Jain  
-### 🎀 Final-year B.Tech CSE student at KIIT (Kalinga Institute of Industrial Technology)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=hi%2C+i'm+parina+✨&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Engineer+%7C+Women+in+STEM+%7C+Making+machines+think+💭&descAlignY=60&descColor=ffb3d1" />
+</p>
 
-✨ Turning caffeine into AI/ML projects and ideas into intelligent systems.  
-Passionate about deep learning, GenAI, and building tech that’s impactful & creative 💻💖  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=26&duration=3000&pause=800&color=E8A0BF&center=true&vCenter=true&width=650&lines=final+year+CSE+%40+KIIT+🎓;deep+learning+is+my+native+language+🧠;turning+data+into+decisions+💅;women+who+code+change+the+world+🌸;currently+training%3A+myself+%26+my+models" alt="Typing SVG" />
+</p>
 
-- 🔭 **Currently working on:** AI/ML & real-world intelligent applications  
-- 🌱 **Currently learning:** Deep Learning, LLMs & Computer Vision  
-- 💼 **Seeking:** AI/ML Internship Opportunities  
-- 👯 **Looking to collaborate on:** hackathons  
-- 📫 **How to reach me:** parinajain777@gmail.com  
+<br/>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Engineer-C9A0DC?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Fluent-E8A0BF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to-Internships-B784A7?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based_in-India_🇮🇳-D4A5C9?style=for-the-badge" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parinajain24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parinajain777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parinajain777@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=parinajain15&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=parinajain15&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=parinajain15&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌸 the girl behind the code
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parinajain15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+```python
+# no bugs here, just features
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+parina = {
+    "currently"    : "building AI that actually makes sense 🧠",
+    "learning"     : ["LLMs", "RAG pipelines", "Computer Vision"],
+    "obsessed_with": "the moment a model finally converges 🥹",
+    "fun_fact"     : "I debug better with iced coffee in hand ☕",
+    "looking_for"  : "AI/ML internship where I can break things & learn fast",
+    "motto"        : "Elle Woods got into Harvard. I'll get my model to 99% acc.",
+}
+```
 
+---
+
+## 💅 what i actually know
+
+<p align="center">
+
+| skill | tools | vibe |
+|-------|-------|------|
+| 🧠 Deep Learning | TensorFlow · Keras · PyTorch | daily obsession |
+| 🎯 Computer Vision | ResNet · CNNs · image pipelines | built a whole project on it |
+| 🤖 ML Fundamentals | scikit-learn · NumPy · Pandas | rock solid |
+| 🐍 Python | always Python | it's just home |
+| ☁️ Cloud & DB | AWS · Firebase · MySQL | getting there |
+| 🌐 A lil web | HTML · CSS · JavaScript · React | enough to be dangerous |
+
+</p>
+
+---
+
+## 🔬 projects — the ones i'm actually proud of
+
+### 🚗 distracted driver detection
+> *ResNet50 · TensorFlow · Keras · Python*
+
+Trained a 50-layer residual network to classify driver behaviour into 10 categories — texting, phone calls, safe driving, and more — across 22,424 images. Used **Leave-One-Group-Out cross-validation** to make sure the model generalises across people, not just images. Hit **86.95% training accuracy** in 10 epochs. The vanishing gradient problem didn't stand a chance.
+
+`📁 code upload coming soon — watch this space!`
+
+---
+
+### 🏢 IntelliOpsAI
+> *C# · AI APIs · SQL · Dashboards*
+
+Enterprise workforce intelligence platform — real-time analytics, AI-generated operational insights, and interactive dashboards. Built for the kind of teams who want answers, not spreadsheets.
+
+[![View Repo](https://img.shields.io/badge/→_view_repo-C9A0DC?style=flat-square&logoColor=white)](https://github.com/Parinajain15/IntelliOpsAI)
+
+---
+
+## 📊 by the numbers
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parinajain15&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=C9A0DC&icon_color=E8A0BF&text_color=ffffff&include_all_commits=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinajain15&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=C9A0DC&text_color=ffffff&include_all_commits=true&count_private=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parinajain15&theme=radical&hide_border=true&background=0d0d0d&ring=C9A0DC&fire=E8A0BF&currStreakLabel=D4A5C9" />
+</p>
+
+---
+
+## 🏆 trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Parinajain15&theme=dracula&no-frame=true&margin-w=12&column=4" />
+</p>
+
+---
+
+## 💬 a quote i live by
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦_'what%2C+like+it's+hard%3F'_–_Elle+Woods_✦-8EC5FC?style=for-the-badge&labelColor=1a1a2e&color=8EC5FC&logoColor=white" />
+</p>
+
+---
+
+## 🌷 find me here
+
+<p align="center">
+  <a href="mailto:parinajain777@gmail.com">
+    <img src="https://img.shields.io/badge/email-E8A0BF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/parinajain777">
+    <img src="https://img.shields.io/badge/linkedin-C9A0DC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/parinajain24">
+    <img src="https://img.shields.io/badge/instagram-D4A5C9?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=she+builds%2C+she+ships%2C+she+slays+💅&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parinajain15&color=C9A0DC&style=for-the-badge&label=visitors" />
+</p>
