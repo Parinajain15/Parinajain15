@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Parina Jain  
-### 🎀 Final-year B.Tech CSE student at KIIT (Kalinga Institute of Industrial Technology) | AI/ML Enthusiast  
+### 🎀 Final-year B.Tech CSE student at KIIT (Kalinga Institute of Industrial Technology)
 
 ✨ Turning caffeine into AI/ML projects and ideas into intelligent systems.  
 Passionate about deep learning, GenAI, and building tech that’s impactful & creative 💻💖  
@@ -27,7 +27,3 @@ Passionate about deep learning, GenAI, and building tech that’s impactful & cr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=parinajain15&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
