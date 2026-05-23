@@ -23,7 +23,7 @@
 # no bugs here, just features
 
 parina = {
-    "currently"    : "building AI that actually makes sense 🧠",
+    "currently"    : "exploring, building & growing in the AI space 🌱",
     "learning"     : ["LLMs", "RAG pipelines", "Computer Vision"],
     "obsessed_with": "the moment a model finally converges 🥹",
     "fun_fact"     : "I debug better with iced coffee in hand ☕",
@@ -38,14 +38,14 @@ parina = {
 
 <p align="center">
 
-| skill | tools | vibe |
-|-------|-------|------|
-| 🧠 Deep Learning | TensorFlow · Keras · PyTorch | daily obsession |
-| 🎯 Computer Vision | ResNet · CNNs · image pipelines | built a whole project on it |
-| 🤖 ML Fundamentals | scikit-learn · NumPy · Pandas | rock solid |
-| 🐍 Python | always Python | it's just home |
-| ☁️ Cloud & DB | AWS · Firebase · MySQL | getting there |
-| 🌐 A lil web | HTML · CSS · JavaScript · React | enough to be dangerous |
+| skill | tools |
+|-------|-------|
+| 🧠 Deep Learning | TensorFlow · Keras · PyTorch |
+| 🎯 Computer Vision | ResNet · CNNs · image pipelines |
+| 🤖 ML Fundamentals | scikit-learn · NumPy · Pandas |
+| 🐍 Python | always Python |
+| ☁️ Cloud & DB | AWS · Firebase · MySQL |
+| 🌐 A lil web | HTML · CSS · JavaScript · React |
 
 </p>
 
@@ -54,18 +54,18 @@ parina = {
 ## 🔬 projects — the ones i'm actually proud of
 
 ### 🚗 distracted driver detection
-> *ResNet50 · TensorFlow · Keras · Python*
+> *ResNet50 · TensorFlow · Keras · Python · OpenCV*
 
-Trained a 50-layer residual network to classify driver behaviour into 10 categories — texting, phone calls, safe driving, and more — across 22,424 images. Used **Leave-One-Group-Out cross-validation** to make sure the model generalises across people, not just images. Hit **86.95% training accuracy** in 10 epochs. The vanishing gradient problem didn't stand a chance.
+Computer vision model that classifies driver behaviour into 10 categories — safe driving, texting, phone calls, drinking, and more — using the State Farm dataset (22,424 images). Built on ResNet50 with residual learning blocks, Leave-One-Group-Out cross-validation to prevent subject-level data leakage, and full bias-variance analysis. Achieved **86.95% training accuracy** over 10 epochs.
 
-`📁 code upload coming soon — watch this space!`
+[![View Repo](https://img.shields.io/badge/→_view_repo-C9A0DC?style=flat-square&logoColor=white)](https://github.com/Parinajain15/Detecting-Distracted-Drivers-Deep-Learning)
 
 ---
 
 ### 🏢 IntelliOpsAI
-> *C# · AI APIs · SQL · Dashboards*
+> *ASP.NET Core · C# · SQL Server · Gemini API · Chart.js*
 
-Enterprise workforce intelligence platform — real-time analytics, AI-generated operational insights, and interactive dashboards. Built for the kind of teams who want answers, not spreadsheets.
+AI-powered workforce intelligence platform built during an internship at Surtel Technologies (SAP Silver Partner). Sits on top of enterprise time-tracking data and makes it intelligent — managers can query team productivity in plain English, get Gemini-generated weekly summaries, and receive smart alerts for overload risk, meeting overhead, and sprint health. Uses a prompt chaining pipeline where Gemini first detects anomalies, then generates recommendations from live SQL data.
 
 [![View Repo](https://img.shields.io/badge/→_view_repo-C9A0DC?style=flat-square&logoColor=white)](https://github.com/Parinajain15/IntelliOpsAI)
 
@@ -74,13 +74,13 @@ Enterprise workforce intelligence platform — real-time analytics, AI-generated
 ## 📊 by the numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parinajain15&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=C9A0DC&icon_color=E8A0BF&text_color=ffffff&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parinajain15&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=C9A0DC&icon_color=E8A0BF&text_color=ffffff" height="160" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinajain15&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=C9A0DC&text_color=ffffff&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parinajain15&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=C9A0DC&text_color=ffffff" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parinajain15&theme=radical&hide_border=true&background=0d0d0d&ring=C9A0DC&fire=E8A0BF&currStreakLabel=D4A5C9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parinajain15&bg_color=0d0d0d&color=C9A0DC&line=E8A0BF&point=ffffff&area=true&area_color=C9A0DC20&hide_border=true&custom_title=contribution+activity" />
 </p>
 
 ---
@@ -120,7 +120,7 @@ Enterprise workforce intelligence platform — real-time analytics, AI-generated
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=she+builds%2C+she+ships%2C+she+slays+💅&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=turning+ideas+into+intelligence+✨&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 </p>
 
 <p align="center">
