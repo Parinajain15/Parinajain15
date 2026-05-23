@@ -88,7 +88,7 @@ AI-powered workforce intelligence platform built during an internship at Surtel 
 ## 🏆 trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parinajain15&theme=dracula&no-frame=true&margin-w=12&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Parinajain15&theme=dracula&no-frame=true&margin-w=12&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
